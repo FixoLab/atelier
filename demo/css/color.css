@@ -1,0 +1,52 @@
+a{
+	color:#00468C
+}
+a:hover{
+	color:#54657e
+}
+footer a{
+	color:#ffffff;
+}
+.overlay:before,
+.overlay:after,
+.bg-gray .featured-package,
+.featured-package,
+.gredient-overlay,
+.primary-btn,
+.cd-btn,
+.scrollup,
+.media:hover .media-icon,
+.shot-footer span {
+	background: #00468C;
+}
+.overlay:before,
+.overlay:after,
+.bg-gray .featured-package,
+.featured-package,
+.gredient-overlay{
+    background: -webkit-linear-gradient(to left, #00468C, #004e92);
+    background: -webkit-linear-gradient(right, #00468C, #004e92);
+    background: linear-gradient(to left, #00468C, #004e92);
+}
+.featured-package .primary-btn,
+.section-title h2 span,
+.media-icon i{
+	color: #00468C
+}
+.input-box:focus,
+.textarea-box:focus  {
+	border: 1px solid #00468C;
+}
+.lines,
+.lines:before,
+.lines:after {
+    border-top: 2px solid #00468C;
+}
+.scrollup:hover,
+.media-icon{
+	border:1px dashed #00468C;
+}
+.primary-btn:hover, .primary-btn:focus{
+	opacity:0.8;
+	background:#00468C;
+}
